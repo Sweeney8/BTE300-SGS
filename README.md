@@ -1,1 +1,1 @@
-# BTE300-SGS
+# BTE320-SGS
